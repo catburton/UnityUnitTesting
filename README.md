@@ -1,11 +1,13 @@
 UnityUnitTesting
 ================
 
-Unity editor extension for running unit tests (NUnitLite) and displaying their results. 
+Unity editor extension for running unit tests (NUnitLite) and displaying their results.
 
 Uses NUnitLite: http://nunitlite.org/
 
-Can be configured to run the unit tests automatically upon project source changes. To run tests manually from within Unity go to:
+To use, simply add the project files to your existing Unity project. I’ve tested this with Unity 4.0 upwards. It should be fine in earlier versions too.
+
+The tool can be configured to run the unit tests automatically for you upon project source changes. To run tests manually from within Unity go to:
 Window -> UnitTesting -> Run All Unit Tests
 
 To display the results window, go to:
